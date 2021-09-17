@@ -39,8 +39,35 @@ img {
     margin: 1em auto;
 }
 
+div.line {
+    width: 67px;
+    height: 1px;
+    margin: 0em auto;
+    background-color: gray;
+}
+
 a.lm {
-    padding: 2em 2em;
+    padding: 1em 1em;
+    margin-top: 0em;
+    margin-bottom: 2em;
+    color: hsl(238, 18%, 38%);
+    text-decoration: none;
+    text-align: center;
+    font-weight: 580;
+    position: relative;
+    border-radius: 25px;
+}
+
+
+a.lm:hover{
+    margin: 0em auto;
+    margin-top: 0em;
+    margin-bottom: 2em;
+    background: #55A1E5;
+    color: white;
+    box-shadow: 10px 10px 6px #DDDDDD;
+    transition: all .2s ease-in-out;
+    
 }
 
 footer {
