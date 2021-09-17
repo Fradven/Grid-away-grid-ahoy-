@@ -4,6 +4,7 @@
 ## Objective:
 Learn how to use css grid to reproduce best we can the example website given below.
 
-[exercise](images/exercise-2.png "ex")
+!%[exercise](images/exercise-2.png "ex")
 
-
+***
+Link [here](https://fradven.github.io/Grid-away-grid-ahoy-/)
